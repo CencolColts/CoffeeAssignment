@@ -4956,11 +4956,14 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: #eee;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: black;
+    background-image: url(https://www.goodfood.com.au/content/dam/images/g/v/o/f/0/m/image.related.articleLeadwide.620x349.gvk6sk.png/1493000400967.jpg);
+    background-size: inherit;
+   
 }
 .jumbotron h1,
 .jumbotron .h1 {
