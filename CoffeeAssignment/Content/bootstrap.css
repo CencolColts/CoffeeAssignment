@@ -4961,8 +4961,9 @@ a.badge:focus {
     margin-bottom: 30px;
     color: inherit;
     background-color: black;
-    background-image: url(https://www.goodfood.com.au/content/dam/images/g/v/o/f/0/m/image.related.articleLeadwide.620x349.gvk6sk.png/1493000400967.jpg);
-    background-size: inherit;
+    background-image: url(https://bikramaustralia.com.au/wp-content/uploads/revslider/homepage/coffee-banner-e1405123201874.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
    
 }
 .jumbotron h1,
